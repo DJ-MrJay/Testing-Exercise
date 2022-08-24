@@ -9,7 +9,7 @@ Using Jest library to write tests for given JavaScript functions
 # Getting Started
 
 ### Run
-- Run "git clone [url](https://github.com/Bornittah/unit-testing.git)"
+- Run <code>git clone https://github.com/DJ-MrJay/Testing-Exercise</code>
 - On your terminal Run "npm test"
 
 # Contributing
