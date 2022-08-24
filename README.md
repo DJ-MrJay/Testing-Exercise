@@ -2,9 +2,9 @@
 Using Jest library to write tests for given JavaScript functions
  
 # Built With
-Javascript
-[Jest](https://jestjs.io)
-[Babel](https://babeljs.io/)
+- Javascript
+- [Jest](https://jestjs.io)
+- [Babel](https://babeljs.io/)
 
 # Getting Started
 
