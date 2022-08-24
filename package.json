@@ -1,0 +1,20 @@
+{
+  "name": "testing-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-MrJay/Testing-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-MrJay/Testing-Exercise/issues"
+  },
+  "homepage": "https://github.com/DJ-MrJay/Testing-Exercise#readme"
+}
