@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DJ-MrJay/Testing-Exercise/issues"
   },
-  "homepage": "https://github.com/DJ-MrJay/Testing-Exercise#readme"
+  "homepage": "https://github.com/DJ-MrJay/Testing-Exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
