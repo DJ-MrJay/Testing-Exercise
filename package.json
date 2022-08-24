@@ -1,7 +1,7 @@
 {
   "name": "testing-exercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using Jest library to write tests for JavaScript functions",
   "main": "index.js",
   "scripts": {
     "test": "jest"
